@@ -1,5 +1,5 @@
 # ML-Project
-# This repo has only ml , ai project 
+# This repo has only Machine learing Project 
 
 
 ![.](https://madaboutsports.in/wp-content/uploads/2021/02/Technology-in-Sports-1024x576.jpg)
